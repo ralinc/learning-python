@@ -1,2 +1,1 @@
-# learning-python
-Python 3 playground
+# Python 3 Playground
